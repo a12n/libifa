@@ -1,4 +1,4 @@
-// License: WTFPL (http://www.wtfpl.net/)
+/* License: WTFPL (http://www.wtfpl.net/) */
 
 #include <sys/types.h>
 #include <sys/socket.h>
